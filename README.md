@@ -1,7 +1,3 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on building responsive and scalable web applications using the MERN Stack.<br><br>👯 I’m open to collaborating on real-world web development projects and open-source initiatives.<br><br>🤝 I’m looking for guidance and opportunities to grow as a freelance developer, especially on platforms like Upwork.<br><br>🌱 I’m currently learning advanced JavaScript, API integration, and backend development with Node.js and MongoDB.<br><br>💬 Feel free to ask me about React, REST APIs, or how I approach clean and maintainable code.<br><br>⚡ Fun fact: I believe consistency beats motivation — that’s how I code every day.
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8rAcdN6scD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayushexplorer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushdev01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Ayush_Dev01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushjhasahab07@gmail.com) 
 
@@ -11,9 +7,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ayushjava07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ayushjava07&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjava07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=ayushjava07&icon=7&color=6)](https://visitcount.itsvg.in)
 
