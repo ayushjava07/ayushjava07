@@ -52,14 +52,4 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ayushjava07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=ayushjava07&theme=blue-green&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjava07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
