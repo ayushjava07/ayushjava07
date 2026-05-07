@@ -17,7 +17,7 @@
 [![Network](https://img.shields.io/badge/Network-Sepolia-blue)]()
 
 **What's working:**
-- 3 autonomous agents over libp2p `/atos/1.0.0`
+- 5 autonomous agents over libp2p `/atos/1.0.0`
 - ML-KEM-768 + AES-256 encrypted agent messaging
 - IPLD Task DAG with CID-linked execution logs
 - Live AMM DEX with liquidity pool on Sepolia
