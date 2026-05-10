@@ -52,4 +52,5 @@
 
 ---
 ![](https://bit.ly/48R2mKU)
+[<img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/main/profile-views.svg" height="50"/>](https://github.com/ayushjava07)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
