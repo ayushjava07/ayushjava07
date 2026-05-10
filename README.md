@@ -51,6 +51,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
-![](https://bit.ly/48R2mKU)
-[<img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/main/profile-views.svg" height="50"/>](https://github.com/ayushjava07)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayushjava07&color=00ff00&style=flat)
+
+[<img src="https://raw.githubusercontent.com/ayushjava07/ayushjava07/main/profile-views.svg" height="50"/>](https://github.com/ayushjava07)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
