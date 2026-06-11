@@ -7,24 +7,6 @@
 
 ---
 
-## 🔭 Currently Building
-
-**ATOS — Autonomous Token Orchestration System**
-> Multi-agent system with libp2p, PQC encryption, IPLD task DAGs, and live DEX on Sepolia
-
-[![Repo](https://img.shields.io/badge/GitHub-minidex--agent-black?logo=github)](https://github.com/ayushjava07/minidex-agent)
-[![Live](https://img.shields.io/badge/Live-minidex--agent.vercel.app-black?logo=vercel)](https://minidex-agent.vercel.app)
-[![Network](https://img.shields.io/badge/Network-Sepolia-blue)]()
-
-**What's working:**
-- 5 autonomous agents over libp2p `/atos/1.0.0`
-- ML-KEM-768 + AES-256 encrypted agent messaging
-- IPLD Task DAG with CID-linked execution logs
-- Live AMM DEX with liquidity pool on Sepolia
-- Heartbeat-based fault tolerance with auto-failover
-
----
-
 ## 💻 Tech Stack:
 
 ### Web3
